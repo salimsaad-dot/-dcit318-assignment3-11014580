@@ -1,0 +1,14 @@
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\bin\Debug\net8.0\FinanceApp.cs.exe
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\bin\Debug\net8.0\FinanceApp.cs.deps.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\bin\Debug\net8.0\FinanceApp.cs.runtimeconfig.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\bin\Debug\net8.0\FinanceApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\bin\Debug\net8.0\FinanceApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.AssemblyInfoInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.AssemblyInfo.cs
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\refint\FinanceApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\FinanceApp.cs.genruntimeconfig.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\FinanceApp.cs\FinanceApp.cs\obj\Debug\net8.0\ref\FinanceApp.cs.dll
