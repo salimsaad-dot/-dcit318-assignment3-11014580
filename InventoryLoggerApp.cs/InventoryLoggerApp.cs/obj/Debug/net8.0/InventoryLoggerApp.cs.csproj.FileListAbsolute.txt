@@ -1,0 +1,14 @@
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\bin\Debug\net8.0\InventoryLoggerApp.cs.exe
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\bin\Debug\net8.0\InventoryLoggerApp.cs.deps.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\bin\Debug\net8.0\InventoryLoggerApp.cs.runtimeconfig.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\bin\Debug\net8.0\InventoryLoggerApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\bin\Debug\net8.0\InventoryLoggerApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.AssemblyInfoInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.AssemblyInfo.cs
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\refint\InventoryLoggerApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\InventoryLoggerApp.cs.genruntimeconfig.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\InventoryLoggerApp.cs\InventoryLoggerApp.cs\obj\Debug\net8.0\ref\InventoryLoggerApp.cs.dll

@@ -1,0 +1,14 @@
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\bin\Debug\net8.0\StudentGradingApp.cs.exe
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\bin\Debug\net8.0\StudentGradingApp.cs.deps.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\bin\Debug\net8.0\StudentGradingApp.cs.runtimeconfig.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\bin\Debug\net8.0\StudentGradingApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\bin\Debug\net8.0\StudentGradingApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.AssemblyInfoInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.AssemblyInfo.cs
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\refint\StudentGradingApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\StudentGradingApp.cs.genruntimeconfig.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\StudentGradingApp.cs\StudentGradingApp.cs\obj\Debug\net8.0\ref\StudentGradingApp.cs.dll
