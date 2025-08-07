@@ -1,0 +1,14 @@
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\bin\Debug\net8.0\WarehouseInventoryApp.cs.exe
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\bin\Debug\net8.0\WarehouseInventoryApp.cs.deps.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\bin\Debug\net8.0\WarehouseInventoryApp.cs.runtimeconfig.json
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\bin\Debug\net8.0\WarehouseInventoryApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\bin\Debug\net8.0\WarehouseInventoryApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.AssemblyInfoInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.AssemblyInfo.cs
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\refint\WarehouseInventoryApp.cs.dll
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.pdb
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\WarehouseInventoryApp.cs.genruntimeconfig.cache
+C:\Users\SDT\Desktop\UG FILES\LEVEL 300\SEM 2\DCIT 318-PROGRAMING II\assignments\Assignment 3\WarehouseInventoryApp.cs\WarehouseInventoryApp.cs\obj\Debug\net8.0\ref\WarehouseInventoryApp.cs.dll
